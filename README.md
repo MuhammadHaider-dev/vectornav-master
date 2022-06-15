@@ -50,6 +50,8 @@ via ROS parameters and publishes sensor data via ROS topics.
 This launch file contains the default parameters for connecting a device to ROS.
 You will problaby want to copy it into your own project and modify as required. 
 
+<!-- Added note for calibration -->
+
 
 References 
 ----------
