@@ -48,6 +48,8 @@ ros::ServiceServer resetOdomSrv;
 
 XmlRpc::XmlRpcValue rpc_temp;
 
+// Main ROS node for VectorNav IMU
+
 // Include this header file to get access to VectorNav sensors.
 #include "vn/compositedata.h"
 #include "vn/sensors.h"
